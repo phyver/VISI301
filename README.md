@@ -27,5 +27,5 @@ La touche "q" permet de quitter le jeu.
 
 ## développement
 
-Pierre Hyvernat
-Arthur Tartempion
+  - Pierre Hyvernat
+  - Arthur Tartempion
