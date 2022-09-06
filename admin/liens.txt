@@ -1,0 +1,12 @@
+wiki VISI301:
+  https://www.lama.univ-savoie.fr/mediawiki/index.php/VISI301_CMI_:_projet_de_recherche_et_d%C3%A9veloppement
+
+
+pygame :
+  https://www.pygame.org
+
+
+livre pygame :
+  https://inventwithpython.com/pygame/chapters/ (pour lire en ligne)
+
+  https://inventwithpython.com/makinggames.pdf  (livre entier en pdf)
